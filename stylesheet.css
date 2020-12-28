@@ -463,15 +463,15 @@ a.btn {
   transition: all 200ms 0s ease-out;
   font-size: 1rem;
 }
-a.btn--black:hover {
+a.btn:hover {
   margin-top: 3px;
-  color: rgb(230, 233, 255);
+  color: rgb(225, 243, 255);
   background: #00c3ff;
   border-bottom: 2px solid #9b9b9b;
 }
-a.btn--black:active {
+a.btn:active {
   margin-top: 3px;
-  color: rgb(97, 185, 226);
+  color: rgb(225, 243, 255);
   background: #00d9ff;
   border-bottom: 2px solid #9b9b9b;
 }
