@@ -29,6 +29,14 @@ p {
   font-size: 1.3rem;
 }
 
+a {
+  font-size: 1.2rem;
+}
+
+button {
+  font-size: 1.1rem;
+}
+
 body {
   font-family: "Avenir Next";
   background-color: #ffffff;
