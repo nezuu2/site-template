@@ -65,6 +65,7 @@ li {
   width: 99%;
   margin-right: auto;
   margin-left: auto;
+  padding: 0px 5px;
 }
 
 .header-logo {
@@ -105,13 +106,14 @@ li {
 
 nav {
   display: flex;
+  padding: 0px 5px;
   width: 100%;
   background: rgba(17, 17, 17, 0.918);
   position: sticky;
   top: 0px;
   z-index: 1024;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(24px);
+  backdrop-filter: blur(11px);
+  -webkit-backdrop-filter: blur(11px);
 }
 
 nav ul {
@@ -473,8 +475,8 @@ a.btn {
 }
 a.btn:hover {
   margin-top: 3px;
-  color: rgb(225, 243, 255);
-  background: #00c3ff;
+  color: rgb(255, 255, 255);
+  background: #2cceff;
   border-bottom: 2px solid #9b9b9b;
 }
 a.btn:active {
